@@ -1,9 +1,9 @@
 {
 
     "info": {
-        "url_png_icon_64x64": "https://jinwon1choi.gabia.io/agg1/logoicon2.png",
-        "url_png_logo": "https://jinwon1choi.gabia.io/agg1/logo2.png",
-        "location": "Korea",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/jinwon1choi/adagogo1/main/logoicon2.png",
+        "url_png_logo": "https://raw.githubusercontent.com/jinwon1choi/adagogo1/main/logo2.png",
+        "location": "",
 
         "social": {
             "twitter_handle": "Jinwon1Choi",
@@ -16,8 +16,8 @@
                   },
 
         "company": {
-            "name": "Name : Jinwon Choi",
-            "addr": "More than 20 years experiened maintenance professional & electricial engineer",
+            "name": "My name is Jinwon Choi. More than 20 years experiened maintenance professional & electricial engineer",
+            "addr": "",
             "city": "",
             "country": "",
             "company_id": "",
@@ -25,8 +25,8 @@
                   },
 
         "about": {
-            "me": "",
-            "server": "Hosted by Google internet data center(IDC), Security, Reliable, Powerful Networking and Maximum uptime! ",
+            "me": "ADAgogo1",
+            "server": "One relay runs on cloud hosting, The other relay run on bare metal servers. Secure & Reliable, Maximum uptime, 0% Pool margin! ",
             "company": ""
                   }
              },
@@ -68,4 +68,3 @@
            }
      }
 }
-
