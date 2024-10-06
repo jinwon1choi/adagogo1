@@ -1,6 +1,6 @@
 {
   "name": "AGG1 Stake Pool",
-  "description": "AGG1, Cardano ADA Stake Pool! Single pool!",
+  "description": "AGG1, Cardano Stake Pool! Single pool!",
   "ticker": "AGG1",
   "homepage": "https://adagogo1.wixsite.com/agg1",
   "extended": "https://raw.githubusercontent.com/jinwon1choi/adagogo1/main/ex-metadata.json"
